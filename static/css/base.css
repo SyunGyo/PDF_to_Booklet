@@ -1,0 +1,15 @@
+.messageForm{
+    border: 3px #ccc dashed;
+    border-radius: 10px;
+    box-shadow: 0 2px 3px 0 #ddd; 
+    font-size: 100%;
+    margin-left:auto;
+    margin-right:auto;
+    width:100%;
+    height:100%;
+    background-color:  #fff;
+    display:flex;
+    text-align:center;
+    align-items:center;
+    justify-content:center
+}
