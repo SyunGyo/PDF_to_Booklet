@@ -20,6 +20,6 @@ Toshiaki Takeuchi
 
 [Twitter](https://twitter.com/toshitoshidoco1)
 
-## Licence
+## License
 
 [MIT](https://opensource.org/licenses/mit-license.php)
