@@ -18,8 +18,6 @@ Toshiaki Takeuchi
 
 [HP](http://www2.kobe-u.ac.jp/~180s114s/)
 
-[Twitter](https://twitter.com/toshitoshidoco1)
-
 ## License
 
 [MIT](https://opensource.org/licenses/mit-license.php)
